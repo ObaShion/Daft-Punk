@@ -2,7 +2,7 @@
 //  Daft_PunkTests.swift
 //  Daft PunkTests
 //
-//  Created by 大場史温 on 2022/01/22.
+//  Created by  on 2022/01/22.
 //
 
 import XCTest
