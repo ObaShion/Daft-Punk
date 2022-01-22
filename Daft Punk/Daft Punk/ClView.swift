@@ -2,7 +2,7 @@
 //  ClViews.swift
 //  Household account book
 //
-//  Created by 大場史温 on 2022/01/06.
+//  Created by  on 2022/01/06.
 //
 
 import SwiftUI
